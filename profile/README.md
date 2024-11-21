@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
-# Token Giver: Transform Charity with Blockchain! ![product logo](https://asset.cloudinary.com/dzplkowkj/147b5a6d55345ee09c0bc509031a3dbe)
+# Token Giver: Transform Charity with Blockchain! ![product logo](https://res.cloudinary.com/dzplkowkj/image/upload/v1732150349/bx--donate-heart_ehgxxo.png)
 
 <!-- ABOUT THE PROJECT -->
-![Product screen shot](https://asset.cloudinary.com/dzplkowkj/36e0b5e4cce3dbecbde6e6d7c877df48)
+![Product screen shot](https://res.cloudinary.com/dzplkowkj/image/upload/v1732150350/project-screenshot_inknez.png)
 
 Token Giver is a decentralized application designed to revolutionize charity and fundraising. With Token Giver, users can create and manage campaigns by minting unique campaign NFTs, which have Token Bound Accounts (TBA) deployed on them automatically. This enables seamless and secure donations using STRK tokens. This project leverages the power of Next.js, StarknetJs, Starknet TBA SDK, and smart contracts written in Cairo to provide a robust and user-friendly platform..
 
@@ -12,7 +12,6 @@ Token Giver is a decentralized application designed to revolutionize charity and
 
 1. [PROJECT OVERVIEW](#project-overview)
 2. [FEATURES](#features)
-3. [TECHNICAL DETAILS](#technical-details)
 4. [PROJECT WALKTHROUGH](#setup-and-deployment)
 5. [CONCLUSION](#conclusion)
 
@@ -34,12 +33,6 @@ TokenGiver addresses critical issues in charity by leveraging blockchain technol
 - **Token Donations**: Users can seamlessly donate to causes using STRK token.
 - **Withdraw Funds**: Campaign owners can seamlessly withdraw funds gathered for their campaign.
 
-## TECHNICAL DETAILS
-
-### Tech Stack
-
-- **Frontend**: Next JS
-- **Smart Contracts**: Cairo
 
 ## PROJECT WALKTHROUGH
 
